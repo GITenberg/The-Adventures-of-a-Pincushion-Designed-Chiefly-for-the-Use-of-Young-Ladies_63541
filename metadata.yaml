@@ -1,0 +1,34 @@
+_repo: The-Adventures-of-a-Pincushion-Designed-Chiefly-for-the-Use-of-Young-Ladies_63541
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kilner, Mary Ann
+    aliases:
+    - Slinn, Sarah
+    - Kilner, Mary Jane
+    birthdate: 1753
+    deathdate: 1831
+    gutenberg_agent_id: '38892'
+    url: http://www.gutenberg.org/2009/agents/38892
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Ann_Kilner
+description: ''
+gutenberg_issued: '2020-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63541'
+  lccn: '78311111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Temper -- Juvenile fiction'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Pincushions -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Orderliness -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Adventures of a Pincushion, Designed Chiefly for the Use of Young Ladies
+url: http://www.gutenberg.org/ebooks/63541
