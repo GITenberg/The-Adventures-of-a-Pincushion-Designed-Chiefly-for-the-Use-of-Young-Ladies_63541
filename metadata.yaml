@@ -1,5 +1,8 @@
 _repo: The-Adventures-of-a-Pincushion-Designed-Chiefly-for-the-Use-of-Young-Ladies_63541
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63541-h/images/cover.jpg
 creator:
   author:
     agent_name: Kilner, Mary Ann
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38892
     wikipedia: http://en.wikipedia.org/wiki/Mary_Ann_Kilner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63541#The-Adventures-of-a-Pincushion-Designed-Chiefly-for-the-Use-of-Young-Ladies
 gutenberg_issued: '2020-10-24'
 gutenberg_type: Text
 identifiers:
